@@ -1,0 +1,32 @@
+final_stage_simple,I,I,I,II,II,II,III,III,III,IV,IV,IV,n_stage_window_hits
+stage_time_window,pre_stage,0_to_90,post_90,pre_stage,0_to_90,post_90,pre_stage,0_to_90,post_90,pre_stage,0_to_90,post_90,
+PROC_DESC,,,,,,,,,,,,,
+TRASTUZUMAB INJECTION,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,12.0
+"INJECTION, PERTUZUMAB, 1 MG",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,12.0
+"INJECTION, PEGFILGRASTIM 6MG",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,10.0
+CHEMO IV INFUSION 1 HR,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9.0
+OFFICE/OUTPATIENT VISIT EST,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,8.0
+INJ PEMBROLIZUMAB,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,7.0
+RADIATION TREATMENT DELIVERY,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,6.0
+INSERT TUNNELED CV CATH,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,6.0
+"INJ, ADO-TRASTUZUMAB EMT 1MG",No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,6.0
+DENOSUMAB INJECTION,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,5.0
+PACLITAXEL PROTEIN BOUND,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,4.0
+BREAST RECONSTRUCTION,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,3.0
+LEUPROLIDE ACETATE /3.75 MG,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,3.0
+BIOPSY/REMOVAL LYMPH NODES,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,3.0
+"INJECTION, FULVESTRANT",No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,3.0
+BX BREAST 1ST LESION US IMAG,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,3.0
+"INJ, ATEZOLIZUMAB,10 MG",No,No,No,No,No,No,No,No,No,No,Yes,Yes,2.0
+MAST SIMPLE COMPLETE,Yes,No,No,Yes,No,No,No,No,No,No,No,No,2.0
+ONCOLOGY BREAST MRNA,Yes,Yes,No,No,No,No,No,No,No,No,No,No,2.0
+PET IMAGE W/CT SKULL-THIGH,No,No,No,No,No,No,No,No,No,Yes,Yes,No,2.0
+RADIATION THERAPY PLANNING,No,Yes,No,No,No,No,No,Yes,No,No,No,No,2.0
+RADIATION TREATMENT AID(S),No,Yes,No,No,Yes,No,No,No,No,No,No,No,2.0
+TX/PRO/DX INJ NEW DRUG ADDON,No,No,No,No,Yes,No,No,Yes,No,No,No,No,2.0
+HOSPITAL OUTPT CLINIC VISIT,No,No,Yes,No,No,No,No,No,No,No,No,No,1.0
+GOSERELIN ACETATE IMPLANT,No,No,No,No,No,No,No,No,No,No,No,Yes,1.0
+EXTERNAL RADIATION DOSIMETRY,No,Yes,No,No,No,No,No,No,No,No,No,No,1.0
+EMERGENCY DEPT VISIT,No,No,Yes,No,No,No,No,No,No,No,No,No,1.0
+PARTIAL MASTECTOMY,Yes,No,No,No,No,No,No,No,No,No,No,No,1.0
+CYCLOPHOSPHAMIDE 100 MG INJ,No,No,No,No,Yes,No,No,No,No,No,No,No,1.0

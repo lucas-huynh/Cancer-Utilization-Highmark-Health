@@ -1,0 +1,60 @@
+final_stage_simple,I,I,I,II,II,II,III,III,III,IV,IV,IV,n_stage_window_hits
+stage_time_window,pre_stage,0_to_90,post_90,pre_stage,0_to_90,post_90,pre_stage,0_to_90,post_90,pre_stage,0_to_90,post_90,
+DRUG_NM,,,,,,,,,,,,,
+ELIQUIS,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,10.0
+VERZENIO,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,8.0
+IBRANCE,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0
+OZEMPIC,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,7.0
+KISQALI,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,6.0
+TRULICITY,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,5.0
+XARELTO,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,5.0
+VICTOZA 3-PAK,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,4.0
+JAKAFI,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,3.0
+RINVOQ,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,3.0
+PROMACTA,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,3.0
+ENOXAPARIN SODIUM,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,3.0
+TRUQAP,No,No,No,No,No,No,No,No,Yes,No,No,Yes,2.0
+LATUDA,No,No,No,Yes,Yes,No,No,No,No,No,No,No,2.0
+TRELEGY ELLIPTA,No,No,No,No,No,No,No,Yes,Yes,No,No,No,2.0
+ENBREL SURECLICK,No,No,No,Yes,No,Yes,No,No,No,No,No,No,2.0
+PERCOCET,No,No,No,No,No,No,No,Yes,Yes,No,No,No,2.0
+NERLYNX,No,No,No,No,No,Yes,No,No,No,No,No,Yes,2.0
+DUPIXENT PEN,No,No,No,Yes,Yes,No,No,No,No,No,No,No,2.0
+CAPECITABINE,No,No,No,No,Yes,No,No,No,No,No,Yes,No,2.0
+JANUVIA,No,No,No,No,No,No,Yes,Yes,No,No,No,No,2.0
+JARDIANCE,No,No,Yes,No,No,No,No,No,Yes,No,No,No,2.0
+LYNPARZA,No,No,No,No,No,Yes,No,No,No,No,No,Yes,2.0
+OXYCONTIN,No,No,No,No,No,No,No,No,No,Yes,No,No,1.0
+PROCHLORPERAZINE MALEA,No,No,No,No,No,No,No,Yes,No,No,No,No,1.0
+OTEZLA,No,Yes,No,No,No,No,No,No,No,No,No,No,1.0
+SANCUSO,No,No,No,No,Yes,No,No,No,No,No,No,No,1.0
+REVLIMID,Yes,No,No,No,No,No,No,No,No,No,No,No,1.0
+ORENCIA,No,No,No,No,No,Yes,No,No,No,No,No,No,1.0
+TOUJEO SOLOSTAR,No,No,No,No,No,No,No,No,No,Yes,No,No,1.0
+TREXIMET,No,No,No,No,No,No,No,No,No,Yes,No,No,1.0
+WEGOVY,No,No,No,Yes,No,No,No,No,No,No,No,No,1.0
+XIIDRA,No,No,No,No,No,No,Yes,No,No,No,No,No,1.0
+ORSERDU,No,No,No,No,No,No,No,No,No,No,No,Yes,1.0
+ANASTROZOLE,No,Yes,No,No,No,No,No,No,No,No,No,No,1.0
+OLMESARTAN MEDOXOMIL,No,No,No,No,No,No,Yes,No,No,No,No,No,1.0
+NOVOLOG FLEXPEN,No,No,No,No,No,No,No,No,No,Yes,No,No,1.0
+AUBAGIO,No,No,No,Yes,No,No,No,No,No,No,No,No,1.0
+CAMZYOS,No,No,No,No,No,Yes,No,No,No,No,No,No,1.0
+ELETRIPTAN HBR,No,No,No,No,No,No,Yes,No,No,No,No,No,1.0
+ENBREL,No,No,Yes,No,No,No,No,No,No,No,No,No,1.0
+ENTRESTO,No,No,No,No,No,No,No,No,Yes,No,No,No,1.0
+ESBRIET,Yes,No,No,No,No,No,No,No,No,No,No,No,1.0
+EVEROLIMUS,No,No,No,No,No,No,No,No,No,No,No,Yes,1.0
+EXEMESTANE,No,No,No,Yes,No,No,No,No,No,No,No,No,1.0
+FOLLISTIM AQ,No,No,No,No,Yes,No,No,No,No,No,No,No,1.0
+GONAL-F RFF REDI-JECT,No,No,No,No,Yes,No,No,No,No,No,No,No,1.0
+HUMALOG,No,No,No,No,No,No,No,No,No,No,Yes,No,1.0
+HUMIRA(CF) PEN,No,No,No,Yes,No,No,No,No,No,No,No,No,1.0
+IMBRUVICA,Yes,No,No,No,No,No,No,No,No,No,No,No,1.0
+LANTUS SOLOSTAR,No,No,No,No,No,No,No,No,No,No,Yes,No,1.0
+LINZESS,No,No,No,No,No,No,Yes,No,No,No,No,No,1.0
+ARIKAYCE,No,No,No,No,No,No,No,No,No,No,No,Yes,1.0
+LYRICA,No,No,No,Yes,No,No,No,No,No,No,No,No,1.0
+MOUNJARO,No,No,Yes,No,No,No,No,No,No,No,No,No,1.0
+NEUPOGEN,No,No,No,No,Yes,No,No,No,No,No,No,No,1.0
+ZARXIO,No,No,No,No,Yes,No,No,No,No,No,No,No,1.0
