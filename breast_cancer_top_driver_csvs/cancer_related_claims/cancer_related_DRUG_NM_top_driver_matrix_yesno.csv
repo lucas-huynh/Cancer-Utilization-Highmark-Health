@@ -1,0 +1,43 @@
+final_stage_simple,I,I,I,II,II,II,III,III,III,IV,IV,IV,n_stage_window_hits
+stage_time_window,pre_stage,0_to_90,post_90,pre_stage,0_to_90,post_90,pre_stage,0_to_90,post_90,pre_stage,0_to_90,post_90,
+DRUG_NM,,,,,,,,,,,,,
+LETROZOLE,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,12.0
+ANASTROZOLE,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,11.0
+EXEMESTANE,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,11.0
+PROCHLORPERAZINE MALEA,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,9.0
+VERZENIO,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,8.0
+IBRANCE,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7.0
+CAPECITABINE,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,7.0
+TAMOXIFEN CITRATE,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,7.0
+DEXAMETHASONE,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,6.0
+POTASSIUM CHLORIDE,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,3.0
+LIDOCAINE-PRILOCAINE,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,3.0
+MORPHINE SULFATE ER,No,No,No,No,No,No,No,No,No,Yes,Yes,No,2.0
+NEUPOGEN,No,No,No,No,Yes,Yes,No,No,No,No,No,No,2.0
+KISQALI,No,No,Yes,No,No,No,No,No,No,No,Yes,No,2.0
+ELIQUIS,No,No,No,No,No,Yes,No,No,No,No,No,Yes,2.0
+SUCRALFATE,No,No,No,No,No,No,No,Yes,Yes,No,No,No,2.0
+LUPRON DEPOT,No,No,Yes,No,Yes,No,No,No,No,No,No,No,2.0
+OXYCODONE-ACETAMINOPHE,No,No,No,No,No,No,No,No,No,Yes,Yes,No,2.0
+VEOZAH,No,No,Yes,No,No,No,No,No,No,No,No,No,1.0
+VENLAFAXINE HCL,No,No,No,No,No,No,Yes,No,No,No,No,No,1.0
+VANCOMYCIN HCL,Yes,No,No,No,No,No,No,No,No,No,No,No,1.0
+ENBREL,No,No,Yes,No,No,No,No,No,No,No,No,No,1.0
+EVEROLIMUS,No,No,No,No,No,No,No,No,No,No,No,Yes,1.0
+PIQRAY,No,No,No,No,No,No,No,No,Yes,No,No,No,1.0
+OZEMPIC,No,No,No,No,No,No,No,No,Yes,No,No,No,1.0
+ONDANSETRON ODT,No,No,No,No,No,No,No,No,No,Yes,No,No,1.0
+GONAL-F RFF REDI-JECT,No,No,No,No,Yes,No,No,No,No,No,No,No,1.0
+NERLYNX,No,No,No,No,No,No,No,No,No,No,No,Yes,1.0
+HYDROCODONE-ACETAMINOP,No,No,No,No,No,No,No,Yes,No,No,No,No,1.0
+METRONIDAZOLE,No,No,No,No,No,No,Yes,No,No,No,No,No,1.0
+LOPERAMIDE,No,No,No,No,No,No,No,No,No,Yes,No,No,1.0
+LINZESS,No,Yes,No,No,No,No,No,No,No,No,No,No,1.0
+ALBUTEROL SULFATE HFA,No,No,No,No,No,No,No,Yes,No,No,No,No,1.0
+LIDOCAINE HCL VISCOUS,Yes,No,No,No,No,No,No,No,No,No,No,No,1.0
+FAMOTIDINE,No,No,No,Yes,No,No,No,No,No,No,No,No,1.0
+KLOR-CON SPRINKLE,No,No,No,Yes,No,No,No,No,No,No,No,No,1.0
+JAKAFI,No,No,Yes,No,No,No,No,No,No,No,No,No,1.0
+GANIRELIX ACETATE,No,No,No,No,Yes,No,No,No,No,No,No,No,1.0
+HYDROCORTISONE,No,No,No,No,No,No,Yes,No,No,No,No,No,1.0
+AFINITOR,No,No,No,No,No,No,No,No,No,No,No,Yes,1.0
